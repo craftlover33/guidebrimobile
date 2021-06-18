@@ -1,0 +1,90 @@
+{
+  "Ads": [
+  {
+    "select_ads": "ADMOB",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "",
+    "admob_nativeid": "",
+    "admob_openid": "",
+    "interval_intertitial": "3",
+    "startappid": "",
+    "fan_inter": "",
+    "fan_banner_native": "",
+    "mopub_banner": "",
+    "mopub_inter": "",
+    "unityID": "",
+    "unity_inter": "video",
+    "unity_banner": "bannerid",
+    "packagename": "com.aliendroid.alienguide"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tips",
+      "image": "https://raw.githubusercontent.com/craftlover33/guidebrimobile/main/gambar.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tips",
+      "title": "Cara Daftar Mobile Banking BRI Di ATM",
+      "image": "https://raw.githubusercontent.com/craftlover33/guidebrimobile/main/gambar.jpg",
+      "description": "Cara Daftar Mobile Banking BRI Di ATM.",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tips",
+      "title": "Cara Daftar Internet Banking Di ATM",
+      "image": "https://raw.githubusercontent.com/craftlover33/guidebrimobile/main/gambar.jpg",
+      "description": "Cara Daftar Internet Banking Di ATM",
+      "link": "file:///android_asset/guide/guide_2.html"
+	},
+    {
+      "id": 3,
+      "name_category": "Medium",
+      "title": "Cara Daftar BRI Mobile Di Kantor Bank BRI",
+      "image": "https://raw.githubusercontent.com/craftlover33/guidebrimobile/main/gambar.jpg",
+      "description": "Cara Daftar BRI Mobile Di Kantor Bank BRI",
+      "link": "file:///android_asset/guide/guide_3.html"  
+	},
+	{
+      "id": 4,
+      "name_category": "Tips",
+      "title": "Cara Aktivasi Mobile Banking BRI (Internet Banking) di Hp Android",
+      "image": "https://raw.githubusercontent.com/craftlover33/guidebrimobile/main/gambar.jpg",
+      "description": "Cara Aktivasi Mobile Banking BRI (Internet Banking) di Hp Android",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tips",
+      "title": "Cara Aktivasi m Token BRI Di HP Android",
+      "image": "https://raw.githubusercontent.com/craftlover33/guidebrimobile/main/gambar.jpg",
+      "description": "Cara Aktivasi m Token BRI Di HP Android",
+      "link": "file:///android_asset/guide/guide_5.html"
+	},
+    {
+      "id": 6,
+      "name_category": "Medium",
+      "title": "Cara Daftar Mobile Banking BRI Lewat Hp",
+      "image": "https://raw.githubusercontent.com/craftlover33/guidebrimobile/main/gambar.jpg",
+      "description": "Cara Daftar Mobile Banking BRI Lewat Hp",
+      "link": "file:///android_asset/guide/guide_6.html"  
+	}
+  ]
+}
