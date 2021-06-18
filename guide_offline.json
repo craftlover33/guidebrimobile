@@ -4,16 +4,16 @@
     "select_ads": "ADMOB",
     "status_app": "0",
     "link_redirect": "https://",
-    "admob_interid": "",
-    "admob_nativeid": "",
+    "admob_interid": "-",
+    "admob_nativeid": "-",
     "admob_openid": "",
     "interval_intertitial": "3",
-    "startappid": "",
-    "fan_inter": "",
-    "fan_banner_native": "",
-    "mopub_banner": "",
-    "mopub_inter": "",
-    "unityID": "",
+    "startappid": "-",
+    "fan_inter": "-",
+    "fan_banner_native": "-",
+    "mopub_banner": "-",
+    "mopub_inter": "-",
+    "unityID": "-",
     "unity_inter": "video",
     "unity_banner": "bannerid",
     "packagename": "com.aliendroid.alienguide"
@@ -23,9 +23,9 @@
   [
     {
       "id":1,
-      "title":"",
-      "image":"",
-      "link":""
+      "title":"-",
+      "image":"-",
+      "link":"-"
     }
   ],
 
